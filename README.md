@@ -8,7 +8,8 @@
 
 ## Часть 1 - создание инфструктурного стенда 
 
-Следуйте [данной инструкции](https://github.com/yandex-cloud/yc-architect-solution-library/blob/main/demos/gitops-argo-crossplane/01-mk8s-gitlab/README.md)
+Следуйте [данной инструкции](https://github.com/yandex-cloud-examples/yc-webinar-gitops-argo-crossplane/tree/main/01-mk8s-gitlab/README.md)
+
 
 ## Часть 2 - установка argocd и Crossplane
 
